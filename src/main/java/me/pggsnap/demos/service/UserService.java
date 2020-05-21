@@ -37,6 +37,7 @@ public class UserService {
         User user = new User("test2");
         userRepo.save(user);
         System.out.println(user);
+        user.setUsername("test-update");
     }
 
     /**

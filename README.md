@@ -17,3 +17,5 @@
 - doRollback(DefaultTransactionStatus status)
 
 - doCleanupAfterCompletion(Object transaction)
+
+4. 外键关联 `me.pggsnap.demos.domain.Blog`
